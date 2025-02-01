@@ -1,0 +1,18 @@
+Add and update the following functions and features to the codebase:
+
+1. Add and update django degault user model to add new fields for bloger profile.
+2. Add comment section to the blog post and before adding to the database sanitization to the comment section to prevent xss attacks.
+3. Add Oauth2 authentication to the blog app to allow users to login and register using google account.
+4. Add jwt authentication to the blog app to allow users to login and register using jwt token.
+5. Add pagination to the detailblog page.
+6. there are lots of functions which are called in the codebase but not defined and also there are some functions define but not called.
+7. Add a new feature to the codebase that allows the user to generate a blog post based on a given topic.
+8. Add a new feature to the codebase that allows the user to generate a blog post based on a given topic.
+9. Add a new feature to the codebase that allows the user to generate a blog post based on a given topic.
+10. Add a new feature to the codebase that allows the user to generate a blog post based on a given topic.
+
+React-Admin:
+
+Note:
+1. add comments here have to add manually code or function to the codebase.
+2. 
